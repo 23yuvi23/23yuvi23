@@ -106,11 +106,6 @@ I focus on:
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23yuvi23&theme=radical" height="165"/>
-</p>
-
 - 🔥 Consistent contributor with **6,000+ commits**
 - 📈 Current active coding streak
 - 🛠️ Regularly building & deploying projects
