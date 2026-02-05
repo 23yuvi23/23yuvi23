@@ -79,18 +79,6 @@ I focus on:
 
 ---
 
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23yuvi23&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23yuvi23&theme=tokyonight" />
-</p>
-
----
-
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**  
