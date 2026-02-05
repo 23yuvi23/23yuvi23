@@ -12,8 +12,8 @@
   <a href="https://github.com/23yuvi23">
     <img src="https://img.shields.io/badge/GitHub-23yuvi23-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://x.com/23yuvi13">
-    <img src="https://img.shields.io/badge/X-@23yuvi13-000000?style=for-the-badge&logo=x"/>
+  <a href="mailto:yogeshpaliwal9493@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yogeshpaliwal9493@gmail.com-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -21,50 +21,32 @@
 
 ## 👨‍💻 About Me
 
-I am a **passionate Full Stack Developer** who loves building **clean, responsive, and user-focused web applications**.  
-My main strength lies in combining **strong frontend design** with **solid backend logic** to create smooth, efficient user experiences.
+I am a **passionate Full Stack Developer** with hands-on experience in building **scalable, secure, and high-performance web applications**.  
+I enjoy working across the stack — from designing clean, responsive frontend interfaces to implementing robust backend logic and APIs.
 
 I focus on:
-- Writing **clean & readable code**
-- Building **real-world projects**
-- Constantly improving my development skills
+- Clean and maintainable code  
+- Real-world, production-oriented projects  
+- Efficient problem-solving and system design  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-- Responsive design  
-- Component-based UI  
-- Clean layouts & accessibility  
-
----
-
-### ⚙️ Backend Development
+### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-- RESTful APIs  
-- Middleware & routing  
-- Server-side logic  
-
----
 
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
-- CRUD operations  
-- Schema design  
-- Data persistence  
-
----
 
 ### 🧰 Programming, Tools & Deployment
 <p>
@@ -73,69 +55,61 @@ I focus on:
 
 ---
 
-## 🚀 Featured Projects (Live & Deployed)
+## 🚀 Featured Projects
 
-### 🔢 MathVerse
-🔗 https://23math23.vercel.app/  
-**Tech:** HTML, CSS, JavaScript  
+### 🌐 Personal Portfolio Website
+🔗 https://23portfolio23.vercel.app/  
+**Technologies:** React.js, Tailwind CSS, EmailJS, GSAP  
 
-- Interactive educational web platform  
-- Tutor discovery & learning concept  
-- Fully responsive and clean UI  
-
----
-
-### 🤖 Gemini AI Clone
-🔗 https://23gemini23.vercel.app/  
-**Tech:** React, JavaScript  
-
-- Frontend clone inspired by Google Gemini  
-- Prompt-based interface  
-- Focused on UI/UX and structure  
+- Personal developer portfolio showcasing projects and skills  
+- Clean, modern, and fully responsive UI  
+- Integrated contact form and smooth animations  
 
 ---
 
-### ✅ To-Do Web Application
-🔗 https://23todo23.vercel.app/  
-**Tech:** HTML, CSS, JavaScript  
+### 🏥 MedConnect – Doctor Appointment Platform
+🔗 https://23medconnect23.vercel.app/  
+**Technologies:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Razorpay  
 
-- Task creation, update & deletion  
-- LocalStorage-based persistence  
-- Minimal and responsive design  
+- Full Stack healthcare appointment management system  
+- Role-based access for Patients, Doctors, and Admins  
+- Secure JWT-based authentication  
+- Online payment integration with Razorpay  
+- Fully deployed frontend, admin panel, and backend APIs  
 
 ---
 
-## 📊 GitHub Activity
-- 🔥 Consistent contributor with **6,000+ commits**
-- 📈 Current active coding streak
-- 🛠️ Regularly building & deploying projects
-- 🚀 Focused on real-world, production-ready apps
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23yuvi23&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23yuvi23&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎓 Education
 
-🎓 **Bachelor of Computer Applications (BCA)**  
+**Bachelor of Computer Applications (BCA)**  
 Graphic Era Hill University, Haldwani  
-**CGPA:** 8.4 | 2023 – Present  
+CGPA: 8.4 | 2023 – Present  
 
 ---
 
-## 🏆 Achievements
+## 💼 Work Experience
 
-🏅 **24-Hour Offline Hackathon (College Level – 2025)**  
-- Built solutions under strict deadlines  
-- Improved teamwork & problem-solving skills  
+**Reliance Retail Ltd., Haldwani — Data & Operations Assistant**  
+2022 – 2023  
 
----
-
-## 🧠 Currently Improving
-
-- Advanced JavaScript  
-- Backend architecture  
-- API optimization  
-- Writing scalable & maintainable code  
+- Managed daily transaction records and cash reconciliation using SAP  
+- Performed billing, reporting, and stock management tasks  
+- Coordinated with banking teams for audits and cash deposits  
+- Provided customer support and issue resolution at billing counters  
 
 ---
 
-⭐ Thanks for visiting my profile — feel free to explore my repositories!
+⭐ Thanks for visiting my GitHub profile.  
+Feel free to explore my repositories and connect with me.
