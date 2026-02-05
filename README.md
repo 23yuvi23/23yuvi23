@@ -58,7 +58,7 @@ I focus on:
 ## 🚀 Featured Projects
 
 ### 🌐 Personal Portfolio Website
-🔗 https://23portfolio23.vercel.app/  
+🔗 https://yogeshpaliwal.vercel.app/  
 **Technologies:** React.js, Tailwind CSS, EmailJS, GSAP  
 
 - Personal developer portfolio showcasing projects and skills  
